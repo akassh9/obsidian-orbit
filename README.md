@@ -30,7 +30,7 @@ To connect your own machine:
 
 ```bash
 cd ~/wherever-you-want-the-vault
-git clone ubuntu@<ec2-host>:/home/ubuntu/obsidian.git obsidian-orbit
+git clone ubuntu@<ec2-host>:/home/ubuntu/obsidian obsidian-orbit
 ```
 
-(Optional) configure Obsidian Git plugin inside the app to automate pushes/pulls.
+(Optional) configure the Obsidian Git plugin inside the app to automate pushes/pulls.
